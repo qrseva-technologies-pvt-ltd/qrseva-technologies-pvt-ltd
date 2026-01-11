@@ -42,6 +42,7 @@ Focused on system design, backend engineering, and building scalable, reliable S
 
 **2. _NIGAM KUMAR MALLA_**  
 Role: Co-Founder
+
 Focused on product vision, business direction, and building practical software that solves real restaurant problems.
 
 ---
